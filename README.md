@@ -45,9 +45,3 @@ This project involves utilizing SQL queries with filters to address various secu
 - Retrieve employees in the Marketing department.
 - Retrieve employees in the Finance or Sales departments.
 - Retrieve employees not in the IT department.
-
-git add .
-
-git commit -m "Initial commit with SQL queries and README"
-
-git push origin main
