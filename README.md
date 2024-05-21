@@ -1,8 +1,11 @@
 # SQL-Filters-Project
 
 mkdir src
+
 touch src/sql_filters.sql
+
 touch README.md
+
 touch .gitignore
 
 -- Retrieve after hours failed login attempts
