@@ -1,6 +1,4 @@
 # SQL-Filters-Project
-git clone https://github.com/Stevenmarathias/SQL-Filters-Project.git
-cd SQL-Filters-Project
 
 mkdir src
 touch src/sql_filters.sql
