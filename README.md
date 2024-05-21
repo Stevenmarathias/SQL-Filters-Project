@@ -1,5 +1,5 @@
 # SQL-Filters-Project
-git clone https://github.com/yourusername/SQL-Filters-Project.git
+git clone https://github.com/Stevenmarathias/SQL-Filters-Project.git
 cd SQL-Filters-Project
 
 mkdir src
